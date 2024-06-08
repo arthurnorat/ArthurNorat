@@ -1,6 +1,6 @@
-### Hi there 👋
+Olá, eu sou o Arthur 👋
 
-Testando README
+Acadêmico de engenharia de software na Estácio.
 
 
 **arthurnorat/arthurnorat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
