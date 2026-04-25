@@ -1,5 +1,7 @@
 # Olá, eu sou o Arthur 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnorat&layout=compact)
+
 Acadêmico de engenharia de software na UnEstácio.
 
 Sou Analista Judiciário e servidor público formado em Direito, atualmente em transição de carreira para a área de tecnologia. Estou cursando Engenharia de Software, com previsão de conclusão em dezembro de 2027.
