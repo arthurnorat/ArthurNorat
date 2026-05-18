@@ -23,5 +23,3 @@ My passion for technology has led me to focus on iOS development, using the Swif
 With a solid background in Law and experience in the public sector, I have developed analytical skills, attention to detail, and a strong sense of responsibility. These competencies, combined [...]
 
 I am excited to collaborate with dynamic teams and continuously learn, aiming to become a competent and innovative iOS developer.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnorat)](https://github.com/anuraghazra/github-readme-stats)
