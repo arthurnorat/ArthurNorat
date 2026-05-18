@@ -1,8 +1,8 @@
 # Olá, eu sou o Arthur 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnorat&layout=compact)
 
-Acadêmico de engenharia de software na UnEstácio.
+
+Acadêmico de engenharia de software na Estácio.
 
 Sou Analista Judiciário e servidor público formado em Direito, atualmente em transição de carreira para a área de tecnologia. Estou cursando Engenharia de Software, com previsão de conclusão em dezembro de 2027.
 
@@ -23,3 +23,5 @@ My passion for technology has led me to focus on iOS development, using the Swif
 With a solid background in Law and experience in the public sector, I have developed analytical skills, attention to detail, and a strong sense of responsibility. These competencies, combined [...]
 
 I am excited to collaborate with dynamic teams and continuously learn, aiming to become a competent and innovative iOS developer.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnorat)](https://github.com/anuraghazra/github-readme-stats)
